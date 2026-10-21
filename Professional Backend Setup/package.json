@@ -1,0 +1,20 @@
+{
+  "name": "professional-backend-setup",
+  "version": "1.0.0",
+  "description": "this is the way of creating professional backend project",
+  "keywords": [
+    "backend",
+    "connection"
+  ],
+  "license": "ISC",
+  "author": "Sanjeev Kumar Shah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.9.10"
+  }
+}
